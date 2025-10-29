@@ -1,0 +1,27 @@
+{
+  "analysis_start": "2025-10-20T13:18:57.547874+00:00",
+  "analysis_end": "2025-10-27T13:18:57.547874+00:00",
+  "last_update": "2025-10-27T13:18:58.087138+00:00",
+  "overall_trend": "SIDEWAYS",
+  "volatility_level": "LOW",
+  "recent_signals": [],
+  "backtest_win_rate": 0.0,
+  "backtest_total_trades": 0,
+  "backtest_pnl_pct": 0.0,
+  "backtest_max_drawdown": 0.0,
+  "suggested_confidence_threshold": 1.4,
+  "suggested_position_size_multiplier": 0.576,
+  "risk_warning_level": "HIGH",
+  "active_positions": [],
+  "market_conditions": {
+    "trend": "SIDEWAYS",
+    "volatility": "LOW",
+    "price_change_pct": 3.624996626696774,
+    "current_price": 115196.8,
+    "support_level": 100101.0,
+    "resistance_level": 116314.6,
+    "volume_trend": "DECREASING",
+    "avg_volatility": 0.006269341055060316,
+    "signals": []
+  }
+}

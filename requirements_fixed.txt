@@ -1,0 +1,37 @@
+# Trading Bot Requirements - Fixed Versions
+# This requirements.txt resolves protobuf/tensorflow compatibility issues
+
+# Core ML Dependencies - Compatible versions
+tensorflow>=2.16.0,<3.0.0
+protobuf>=5.26.0,<6.0.0
+
+# Core Python packages
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+
+# Trading & Exchange APIs
+python-binance>=1.0.19
+ccxt>=4.0.0
+
+# Configuration
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+
+# CLI & UI
+typer>=0.9.0
+rich>=13.0.0
+
+# Technical Analysis
+# ta-lib  # Uncomment if needed, requires separate installation
+
+# Async Support
+aiohttp>=3.8.0
+websockets>=11.0.0
+
+# Logging
+loguru>=0.7.0
+
+# Development
+pytest>=7.0.0
+black>=23.0.0

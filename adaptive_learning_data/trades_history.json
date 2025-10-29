@@ -1,0 +1,97 @@
+[
+  {
+    "timestamp": "2025-10-27T13:22:08.053433+00:00",
+    "symbol": "ETHUSDT",
+    "side": "BUY",
+    "entry_price": 4162.92,
+    "exit_price": 4162.92,
+    "quantity": 0.062,
+    "pnl": 0.0,
+    "pnl_pct": 0.0,
+    "hold_time_seconds": 0.0,
+    "signal_strength": 1.6515,
+    "market_conditions": {
+      "volatility": 1.0,
+      "volume_ratio": 1.0,
+      "risk_level": "medium"
+    },
+    "was_dca": false,
+    "exit_reason": "pending"
+  },
+  {
+    "timestamp": "2025-10-27T13:44:41.919709+00:00",
+    "symbol": "BTCUSDT",
+    "side": "SELL",
+    "entry_price": 114764.8,
+    "exit_price": 114764.8,
+    "quantity": 0.008,
+    "pnl": 0.0,
+    "pnl_pct": 0.0,
+    "hold_time_seconds": 0.0,
+    "signal_strength": 2.0457133317611254,
+    "market_conditions": {
+      "volatility": 1.0,
+      "volume_ratio": 1.0,
+      "risk_level": "medium"
+    },
+    "was_dca": false,
+    "exit_reason": "pending"
+  },
+  {
+    "timestamp": "2025-10-27T14:04:03.567441+00:00",
+    "symbol": "BNBUSDT",
+    "side": "BUY",
+    "entry_price": 1149.96,
+    "exit_price": 1149.96,
+    "quantity": 0.75,
+    "pnl": 0.0,
+    "pnl_pct": 0.0,
+    "hold_time_seconds": 0.0,
+    "signal_strength": 1.6165099053117962,
+    "market_conditions": {
+      "volatility": 1.0,
+      "volume_ratio": 1.0,
+      "risk_level": "medium"
+    },
+    "was_dca": false,
+    "exit_reason": "pending"
+  },
+  {
+    "timestamp": "2025-10-27T14:08:28.612911+00:00",
+    "symbol": "BTCUSDT",
+    "side": "SELL",
+    "entry_price": 114679.1,
+    "exit_price": 114679.1,
+    "quantity": 0.016,
+    "pnl": 0.0,
+    "pnl_pct": 0.0,
+    "hold_time_seconds": 0.0,
+    "signal_strength": 2.7862691980744407,
+    "market_conditions": {
+      "volatility": 1.0,
+      "volume_ratio": 1.0,
+      "risk_level": "medium"
+    },
+    "was_dca": false,
+    "exit_reason": "pending"
+  },
+  {
+    "timestamp": "2025-10-27T15:11:34.986861+00:00",
+    "symbol": "BNBUSDT",
+    "side": "BUY",
+    "entry_price": 1141.82,
+    "exit_price": 1141.82,
+    "quantity": 0.76,
+    "pnl": 0.0,
+    "pnl_pct": 0.0,
+    "hold_time_seconds": 0.0,
+    "signal_strength": 1.336882981406136,
+    "market_conditions": {
+      "volatility": 1.0,
+      "volume_ratio": 1.0,
+      "risk_level": "medium"
+    },
+    "was_dca": false,
+    "exit_reason": "pending"
+  }
+]

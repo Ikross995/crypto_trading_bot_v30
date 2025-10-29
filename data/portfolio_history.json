@@ -1,0 +1,5714 @@
+[
+  {
+    "timestamp": "2025-10-12T16:07:33.295889",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-12T16:22:54.328163",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-12T16:38:47.723446",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-12T16:55:23.811055",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-12T17:12:06.054266",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-12T18:23:18.821708",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-12T18:42:28.167230",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-12T19:05:33.093653",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-12T19:21:03.149771",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-12T19:34:51.651884",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-12T19:50:42.034310",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-12T20:13:28.450926",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-12T20:32:09.192407",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-13T16:16:08.621868",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-13T16:31:51.079685",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-13T16:47:07.950331",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-13T17:03:09.740036",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-13T17:18:36.935293",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-13T17:34:02.052000",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-13T18:03:45.231210",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-13T18:22:34.054931",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-13T18:42:52.776134",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-13T19:06:28.268548",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-13T19:21:56.874667",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-13T19:35:24.520107",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-13T19:50:10.382835",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-13T20:05:16.547267",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-13T20:21:23.707635",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-13T20:38:44.129122",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-13T20:58:08.301508",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-13T21:15:59.378502",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-13T21:30:20.412825",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-13T21:44:28.324735",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-13T21:58:16.218503",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-13T22:13:24.261994",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-13T22:27:30.136882",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-13T22:40:45.116545",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-13T22:55:14.045811",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-13T23:09:09.560492",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-13T23:22:45.202350",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-14T08:53:14.318477",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-14T09:49:36.129511",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-14T10:08:16.858040",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-14T11:47:10.433469",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-14T12:09:08.716987",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-14T12:30:54.845435",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-14T12:54:07.525056",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-14T13:16:08.820232",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-14T13:37:58.087962",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-14T14:00:48.049328",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-14T15:28:44.205045",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-14T15:51:48.908055",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-14T16:15:21.014737",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-14T16:42:17.547746",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-14T17:07:27.722867",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-14T17:30:17.913353",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-14T17:53:48.295383",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-14T18:16:32.650670",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-14T18:40:57.837277",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-14T19:04:15.050632",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-14T22:03:58.348536",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-14T22:49:24.661744",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-14T23:30:18.349039",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-15T00:09:54.771666",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-15T02:07:20.525014",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-15T02:42:46.448124",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-15T03:09:08.049718",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-15T12:05:26.209088",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-15T12:38:52.566124",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-15T13:08:51.740373",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-15T13:39:51.605752",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-15T14:08:39.552973",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-15T14:37:25.245583",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-15T15:04:08.031696",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-15T15:31:23.740525",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-15T16:01:18.085941",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-16T13:38:49.399722",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-16T14:08:35.835758",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-16T14:35:29.449781",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-16T15:31:43.707237",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-16T15:59:34.702618",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-16T16:26:11.265933",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-16T16:50:56.869285",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-16T17:14:47.278025",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-16T17:40:06.015282",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-16T18:07:04.922474",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-16T18:35:32.278779",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-16T19:02:03.630366",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-16T19:29:44.234287",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-16T19:57:57.234685",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-16T20:28:42.696543",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-16T20:56:13.612588",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-17T10:08:07.975873",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-17T10:38:29.281280",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-17T11:09:30.293543",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-17T11:44:13.976590",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-17T15:07:00.705628",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-17T15:31:19.110410",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-17T15:54:08.869059",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-17T16:09:49.372979",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-17T16:29:11.940769",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-17T16:46:03.476182",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-17T17:03:03.953127",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-17T17:18:06.709879",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-17T17:37:43.120470",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-17T17:57:13.742468",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-17T18:17:44.640471",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-17T18:37:05.165291",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-17T18:58:01.536365",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-17T19:17:43.291589",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-17T19:54:01.472640",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-17T20:13:30.067980",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-17T20:32:36.366857",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-17T20:52:17.046376",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-17T21:11:49.371651",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-17T21:30:33.338635",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-17T22:35:07.687291",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-17T23:41:42.997938",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-18T00:06:23.644827",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-18T00:25:43.185349",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-18T00:43:00.012725",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-18T01:00:24.728816",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-18T01:36:29.777818",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-18T02:10:18.139546",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-18T02:27:49.519220",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-18T02:46:26.772706",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-18T03:05:31.594761",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-18T03:22:46.110330",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-18T13:56:23.405730",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-18T14:14:07.306839",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-18T14:30:24.661453",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-18T14:50:28.640512",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-18T15:10:52.143208",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-18T15:29:04.616277",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-18T15:48:11.624644",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-18T16:06:20.094019",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-18T16:25:40.380404",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-18T16:44:45.237058",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-18T17:07:49.195482",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-18T17:26:58.685407",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-18T17:46:19.836240",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-18T18:04:53.506835",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-18T18:22:08.474997",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-18T18:41:18.459921",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-18T19:03:32.460428",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-18T19:28:17.274186",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-18T19:47:39.675029",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-18T20:08:20.260742",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-18T20:29:05.640810",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-18T20:49:27.787670",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-18T21:09:21.876514",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-18T21:29:08.601316",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-18T21:49:29.320303",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-18T22:12:31.543081",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-18T22:34:40.887419",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-18T22:55:34.335089",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-18T23:19:13.660372",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-18T23:39:15.822179",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-18T23:58:45.774159",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-19T00:49:43.814139",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-19T01:09:56.047839",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-19T01:30:53.882950",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-19T01:52:14.945416",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-19T02:12:10.268341",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-19T02:30:49.348804",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-19T02:51:45.365125",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-19T03:11:38.213152",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-19T03:32:11.772397",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-19T03:49:06.412696",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-19T04:06:22.174322",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-19T04:24:58.305834",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-19T04:49:51.957737",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-19T05:09:14.121109",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-19T05:29:15.134412",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-19T05:50:02.390769",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-19T06:11:37.847438",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-19T06:33:36.799062",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-19T06:59:25.463845",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-19T07:28:40.813585",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-19T07:56:32.281575",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-19T08:19:39.535798",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-19T08:41:09.371698",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-19T08:58:50.245559",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-19T09:18:04.147766",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-19T09:35:17.845843",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-19T09:53:19.738740",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-19T10:11:23.579853",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-19T10:30:10.050621",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-19T10:50:10.923367",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-19T11:14:31.493977",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-19T11:41:27.895952",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-19T12:09:15.211822",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-19T12:37:00.432223",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-19T13:04:53.992237",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-19T13:28:15.737332",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-19T13:52:55.376066",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-19T14:17:43.193522",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-19T14:50:28.525483",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-19T15:32:38.074313",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-19T16:19:30.746139",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-19T16:55:17.885557",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-19T17:18:06.903547",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-19T17:42:29.181037",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-19T18:11:28.711091",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-19T18:36:11.729869",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-19T19:00:24.324516",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-19T19:28:26.415727",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-19T19:58:45.718067",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-19T20:36:46.024662",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-19T21:01:49.742047",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-19T21:30:20.173928",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-19T22:01:12.344850",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-19T22:29:37.410748",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-19T22:59:26.448580",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-19T23:23:51.077490",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-19T23:59:34.144268",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T00:23:02.764772",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T00:47:36.161102",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T01:12:23.664770",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T01:31:39.987874",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T01:54:28.167613",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T02:15:56.031401",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T02:38:20.435706",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T02:55:33.301787",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T03:12:06.246810",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T03:27:51.328984",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T03:46:42.748420",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T04:04:43.906771",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T04:23:44.691505",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T04:39:57.494108",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T04:58:13.697452",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T05:15:36.405913",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T05:32:47.015053",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T05:48:05.769373",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T06:03:28.645708",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T06:19:39.637215",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T06:36:21.425181",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T06:53:24.228646",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T07:09:51.100385",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T07:27:36.816221",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T07:51:40.680341",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T08:08:31.697675",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T08:25:00.693342",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T08:43:19.852362",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T09:00:32.849308",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T09:18:29.841140",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T09:37:21.621124",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T09:55:30.725993",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T10:11:59.236798",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T10:30:13.384380",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T11:18:56.288985",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T11:35:57.396671",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T11:55:32.594407",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T12:14:10.395233",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T12:32:31.569225",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T12:50:18.016458",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T13:07:04.084254",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T13:24:45.992106",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T13:41:32.862735",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T13:57:41.767889",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T14:13:19.433258",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T14:28:07.429731",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T14:46:06.220518",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T15:08:37.326757",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T15:26:34.892691",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T15:45:10.057977",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T16:02:25.087005",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T16:19:37.716373",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T16:39:16.587864",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T17:05:03.678224",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T17:25:09.662759",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T17:46:29.400913",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T18:05:31.192823",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T18:25:02.392063",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T18:43:13.309699",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T19:03:48.994458",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T19:24:28.589165",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T19:45:43.302152",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T20:09:35.928527",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T20:30:45.241275",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T20:52:22.603534",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T21:13:15.030121",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T21:33:11.072501",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T21:58:01.671144",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T22:21:00.041841",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T22:48:55.816232",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-20T23:54:05.984002",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T00:14:27.674957",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T00:35:35.833273",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T01:02:10.980116",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T01:22:32.767855",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T01:43:16.946098",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T02:00:59.829508",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T02:19:53.044220",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T02:38:29.165175",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T02:56:08.638025",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T03:13:25.392053",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T03:31:24.535283",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T03:50:19.336929",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T04:08:26.081730",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T04:24:49.969893",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T04:41:00.274033",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T04:56:15.677842",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T05:12:04.654578",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T05:28:09.666393",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T05:44:13.857252",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T06:00:44.521232",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T06:17:40.764238",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T06:33:45.418366",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T06:53:42.654167",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T07:12:36.903299",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T07:29:48.940379",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T07:47:40.335610",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T08:04:13.737452",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T08:23:03.668638",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T08:41:08.599235",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T09:01:25.826864",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T09:20:42.789970",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T09:38:32.055490",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T09:55:17.268327",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T10:13:28.972217",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T10:35:47.617791",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T10:56:26.547425",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T11:12:57.812665",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T11:31:17.619318",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T11:47:32.920208",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T12:04:48.807840",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T12:24:03.157713",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T12:42:12.720014",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T13:02:47.922626",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T13:21:12.791781",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T13:39:46.234602",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T13:55:29.443094",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T14:13:26.707936",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T14:30:57.335806",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T14:46:46.851600",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T15:04:11.859951",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T15:21:15.134459",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T15:37:06.169620",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T15:53:27.476134",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T16:10:59.403199",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T16:28:14.577871",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T16:44:08.745606",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T17:00:55.377798",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T17:16:53.093383",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T17:33:06.984444",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T17:51:12.458526",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T20:00:20.386646",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T20:20:09.052788",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T20:38:57.580358",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T20:58:15.400210",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T21:17:04.984244",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T21:36:55.226846",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T21:55:53.853592",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T22:19:20.179588",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T22:39:55.112717",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T22:58:59.943483",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T23:20:03.339516",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T23:36:22.557305",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-21T23:57:56.818447",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-22T00:18:01.912132",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-22T00:35:21.454365",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-22T00:57:18.776833",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-22T01:17:56.099825",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-22T01:36:39.010958",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-22T01:53:12.274030",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-22T02:11:19.953641",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-22T02:29:06.792105",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-22T02:55:18.120179",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-22T03:15:43.654459",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-22T03:35:46.599584",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-22T03:58:07.808637",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-22T04:21:01.005641",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-22T04:45:09.879074",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-22T05:05:08.224466",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-22T05:28:20.157931",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-22T05:47:40.824597",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-22T06:11:14.481190",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-22T06:28:35.363608",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-22T06:46:04.146755",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-22T07:05:06.145363",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-22T07:25:28.285878",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-22T07:52:34.454146",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-22T08:09:33.263060",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-22T08:28:09.279122",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-22T08:49:35.447699",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-22T09:06:27.226568",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-22T09:22:16.390239",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-22T09:41:45.612522",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-22T09:59:13.280768",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-22T10:17:05.711667",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-22T10:33:32.710315",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-22T10:50:05.181226",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-22T11:08:16.668828",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-22T11:24:45.818007",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-22T11:40:34.323776",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-22T11:57:00.141968",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-22T12:16:47.532359",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-22T12:38:04.247947",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-22T12:57:54.431569",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-22T13:19:46.461486",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-22T13:37:12.651723",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-22T13:55:48.964355",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-22T14:15:51.544227",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-22T14:35:13.901872",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-22T14:54:29.582418",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-22T15:12:19.332826",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-22T15:27:49.116272",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-22T15:46:55.246171",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-22T16:05:58.212415",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-22T16:27:12.628466",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-22T16:45:08.101269",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-22T17:04:20.871098",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-22T17:23:29.793392",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-22T17:50:06.976543",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-22T18:09:31.665100",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-22T18:28:44.266788",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-22T18:47:39.819506",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-22T19:05:16.308736",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-22T19:29:32.521938",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-22T19:54:19.167952",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-22T22:06:02.028191",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-22T22:32:29.037694",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-22T22:52:48.520612",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-22T23:11:23.115102",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-22T23:34:44.192780",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-22T23:54:53.770258",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-23T00:13:35.711087",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-23T00:31:01.518317",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-23T00:49:39.453416",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-23T01:11:38.705408",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-23T01:31:24.667983",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-23T01:51:14.227176",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-23T02:09:53.194530",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-23T02:29:06.525307",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-23T02:46:13.567352",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-23T03:03:21.311866",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-23T03:23:09.059357",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-23T03:42:51.895031",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-23T04:00:26.639138",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-23T04:19:33.403455",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-23T04:37:16.870984",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-23T04:53:15.145723",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-23T05:10:16.034642",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-23T05:27:52.445046",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-23T05:48:06.379422",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-23T06:08:53.443917",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-23T06:26:39.420369",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-23T06:45:02.642187",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-23T07:05:50.590860",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-23T07:23:50.996548",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-23T07:40:59.187198",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-23T07:57:30.348008",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-23T08:15:51.319884",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-23T08:32:44.051131",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-23T08:49:44.179466",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-23T09:06:39.006943",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-23T09:24:30.523409",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-23T09:43:33.786496",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-23T10:00:43.931793",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-23T10:17:58.206931",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-23T10:34:26.473938",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-23T10:53:00.643194",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-23T11:11:23.067007",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-23T11:29:47.563143",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-23T11:47:20.129990",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-23T12:07:13.385827",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-23T12:30:34.653762",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-23T12:49:28.712453",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-23T13:08:02.448864",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-23T13:26:10.060848",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-23T13:43:59.527656",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-23T14:19:02.079818",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-23T14:37:28.310906",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-23T14:55:47.030560",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-23T15:12:54.571901",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-23T15:29:53.311699",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-23T15:45:29.597208",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-23T16:05:18.173283",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-23T16:23:08.365538",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-23T16:41:47.949828",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-23T16:59:41.108251",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-23T17:15:31.005358",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-23T17:35:00.878992",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-23T17:55:44.395574",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-23T18:12:16.521662",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-23T18:37:13.681936",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-23T19:01:12.263927",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-23T19:35:26.696498",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-23T21:33:24.229493",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T02:11:09.609496",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T02:27:30.233591",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T02:45:03.508330",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T03:04:19.953496",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T03:22:04.043731",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T03:38:52.437177",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T03:56:19.728766",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T04:14:28.359940",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T04:32:54.325311",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T04:49:29.415548",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T05:06:31.851662",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T05:21:57.881826",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T05:38:20.268627",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T05:53:52.429528",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T06:09:15.728589",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T06:24:28.866907",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T06:43:05.108680",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T07:01:26.638568",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T07:19:46.785739",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T07:36:01.670206",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T07:50:27.580119",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T08:05:19.940040",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T08:27:16.600734",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T08:45:51.623877",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T09:01:12.299316",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T09:17:20.729039",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T09:31:59.840582",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T09:46:34.036131",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T10:01:04.201617",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T10:16:39.060799",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T10:31:31.491449",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T10:46:57.754347",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T11:02:53.396868",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T11:19:43.408833",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T11:34:59.697656",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T11:50:13.050950",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T12:05:19.394682",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T12:21:56.988954",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T12:43:21.440180",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T13:01:00.682022",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T13:16:26.861579",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T13:33:52.620696",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T13:48:53.491646",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T14:06:24.767834",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T14:22:28.893148",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T14:38:27.573387",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T14:55:32.389870",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T15:12:04.373764",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T15:27:33.405385",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T15:44:35.259896",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T16:00:07.034141",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T16:17:06.514759",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T16:34:47.260168",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T16:51:23.880716",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T17:07:47.628654",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T17:23:22.716662",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T17:40:29.100877",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T17:58:45.024322",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T18:17:21.163363",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T18:36:28.816846",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T18:54:19.388156",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T19:16:00.360607",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T19:33:34.748773",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T19:51:08.715439",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T20:08:34.097110",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T20:27:21.751210",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T20:47:29.936020",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T21:06:43.282838",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T21:26:47.352528",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T21:50:14.849235",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T22:09:07.672371",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T22:27:49.360872",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T22:50:17.750622",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T23:14:57.076836",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T23:33:25.803648",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-24T23:54:43.726158",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T00:14:01.108008",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T00:38:37.362495",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T01:11:33.794964",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T01:41:37.090348",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T02:03:51.134810",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T02:21:18.427272",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T02:38:13.586546",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T02:55:53.750156",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T03:14:26.620853",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T03:31:01.750156",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T03:47:02.491317",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T04:03:49.292147",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T04:19:41.466186",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T04:35:39.240986",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T04:50:31.013883",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T05:05:56.552712",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T05:21:19.220477",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T05:36:41.119934",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T05:52:03.837552",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T06:08:20.464520",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T06:24:16.851112",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T06:40:33.846097",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T06:55:15.538329",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T07:10:22.241010",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T07:25:49.645257",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T07:40:24.511299",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T07:55:24.768308",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T08:10:57.971069",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T08:25:50.360659",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T08:40:15.407101",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T08:55:04.987063",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T09:09:42.263356",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T09:24:54.423221",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T09:39:22.417079",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T09:54:02.404283",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T10:09:00.191952",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T10:23:39.952742",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T10:38:45.651204",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T10:53:17.882965",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T11:07:06.365332",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T11:20:49.203635",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T11:34:50.775054",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T11:49:43.878838",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T12:03:33.728074",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T12:17:46.560747",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T12:35:01.310615",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T12:56:21.826318",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T13:13:49.946438",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T13:35:24.236410",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T13:51:46.440845",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T14:11:03.669982",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T14:27:07.466974",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T14:44:24.657872",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T15:10:46.182906",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T15:29:15.676805",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T15:48:42.431296",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T16:07:15.029069",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T16:23:38.611851",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T16:41:16.290993",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T16:57:13.596496",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T17:15:46.814805",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T17:33:46.641355",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T17:50:49.526925",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T18:09:18.003315",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T18:25:25.911554",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T18:46:34.182629",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T19:09:55.190278",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T19:25:32.234162",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T19:43:57.006454",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T20:04:19.770196",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T20:22:04.671770",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T20:39:33.544242",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T20:56:18.696990",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T21:14:16.000773",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T21:36:22.649421",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T21:54:10.765717",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T22:13:54.454806",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T22:35:25.047209",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T22:53:52.534775",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T23:11:44.471272",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T23:29:22.930428",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-25T23:49:23.594216",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T00:06:57.566421",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T00:23:50.516648",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T00:41:46.105256",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T00:59:26.183962",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T01:17:01.089899",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T01:34:04.082220",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T01:50:35.202353",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T02:08:26.696990",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T02:25:21.630711",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T02:43:52.784847",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T03:03:45.601652",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T03:17:58.852428",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T03:32:01.416107",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T03:45:37.137484",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T04:00:25.367397",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T04:14:30.684816",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T04:28:48.250042",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T04:43:38.820877",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T04:58:50.088732",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T05:14:27.530175",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T05:29:10.906637",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T05:45:19.544061",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T06:02:38.996122",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T06:17:50.871292",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T06:35:09.920349",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T06:51:22.291446",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T07:08:56.178521",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T07:25:14.679294",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T07:42:09.160212",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T07:56:56.484978",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T08:12:39.580877",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T08:27:18.690829",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T08:42:05.804726",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T08:56:33.670021",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T09:12:58.793236",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T09:27:50.458489",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T09:43:00.143311",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T09:58:19.087483",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T10:13:54.526640",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T10:28:07.627323",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T10:43:09.587880",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T10:58:42.690171",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T11:13:29.419107",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T11:29:12.343248",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T11:45:13.819027",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T11:59:49.465697",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T12:18:30.129248",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T12:36:04.447592",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T12:52:52.151776",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T13:08:14.400983",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T13:23:03.697587",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T13:37:47.651669",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T13:52:07.624081",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T14:07:41.856059",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T14:23:26.327341",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T14:42:23.022872",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T15:01:10.188607",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T15:19:33.707669",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T15:35:07.654278",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T15:51:27.609056",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T16:08:19.535795",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T16:23:44.067303",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T16:40:33.165984",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T16:57:13.551354",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T17:13:55.915546",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T17:30:22.351323",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T17:47:20.925707",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T18:06:31.830954",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T18:26:33.829890",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T18:49:03.238923",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T19:13:45.842545",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T19:38:57.695443",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T20:06:05.514832",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T20:35:53.011324",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T21:03:10.657815",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T21:26:53.699919",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T21:44:05.310591",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T22:01:08.474637",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T22:17:40.173775",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T22:33:25.824607",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T22:50:37.477528",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T23:08:40.065850",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T23:26:35.583692",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-26T23:44:05.482059",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T00:00:09.263931",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T00:16:00.671197",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T00:32:12.492984",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T00:48:42.082788",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T01:04:17.903446",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T01:20:17.478227",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T01:36:08.295510",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T01:52:34.986967",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T02:08:23.484935",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T02:23:52.032316",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T02:39:13.278889",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T02:53:49.240641",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T03:09:28.240292",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T03:25:38.039936",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T03:41:21.242020",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T03:55:54.820354",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T04:10:41.522554",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T04:25:07.888965",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T04:39:53.612711",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T04:54:26.597305",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T05:09:25.828419",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T05:24:09.746883",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T05:39:20.034567",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T05:56:14.217133",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T06:14:40.701579",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T06:29:37.421845",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T06:43:26.480073",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T06:57:49.256213",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T07:11:59.198223",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T07:26:08.202444",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T07:40:39.300007",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T07:54:36.628436",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T08:08:35.486776",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T08:22:16.222944",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T08:36:45.500939",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T08:50:53.512939",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T09:05:22.346410",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T09:19:21.953442",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T09:36:59.219497",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T09:53:00.425862",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T10:07:31.665224",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T10:21:59.472477",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T10:36:59.073271",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T10:52:21.151685",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T11:08:02.539856",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T11:23:59.750520",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T11:39:58.322815",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T11:55:30.566213",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T12:10:55.016878",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T12:26:44.359234",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T12:43:44.810328",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T12:58:35.566148",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T13:13:55.801711",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T13:29:01.883237",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T13:43:29.500157",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T13:57:43.290410",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T14:13:00.290734",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T14:28:28.462188",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T14:44:17.348877",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T14:59:10.066929",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T16:13:53.868736",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T17:51:30.091967",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T18:09:15.301515",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T18:26:29.535149",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T18:48:16.827726",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T19:08:59.448519",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T19:40:47.205510",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T20:25:54.042345",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T20:42:43.351926",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T20:59:39.799256",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T21:32:40.403236",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T21:56:04.365041",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T22:12:48.315500",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T22:29:20.897680",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T22:48:00.684778",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T23:05:28.111011",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T23:23:41.868115",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T23:41:43.348584",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-27T23:59:17.560017",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T00:17:23.751263",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T00:36:21.012446",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T00:54:22.327978",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T01:15:16.605578",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T01:32:10.810196",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T01:49:34.777080",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T02:08:20.062512",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T02:24:13.901261",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T02:42:03.755481",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T02:56:36.214070",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T03:10:35.097516",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T03:24:24.667530",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T03:38:31.441962",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T03:53:19.611732",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T04:06:53.683866",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T04:21:52.610676",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T04:36:01.273208",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T04:50:03.714007",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T05:04:28.892536",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T05:19:09.337562",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T05:34:10.801171",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T05:47:55.938406",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T06:02:08.683817",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T06:16:30.163030",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T06:31:23.754921",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T06:46:25.989269",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T07:01:17.739179",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T07:16:42.108148",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T07:30:46.745435",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T07:45:39.485196",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T07:59:43.140544",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T08:13:59.538133",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T08:28:39.757329",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T08:44:19.992870",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T08:59:43.515711",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T09:13:53.454633",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T09:29:12.841897",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T09:45:49.396756",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T10:03:31.928689",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T10:20:33.945751",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T10:38:00.001946",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T10:53:50.701822",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T11:07:19.766678",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T11:21:39.682909",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T11:35:06.626846",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T11:49:37.209005",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T12:04:49.131725",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T12:22:47.129383",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T12:39:40.131067",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T12:55:11.147123",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T13:14:48.903038",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T13:31:13.770501",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T13:47:46.993648",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T14:05:59.558785",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T14:21:28.330474",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T14:37:21.308261",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T14:54:33.016234",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T15:11:47.575879",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T15:27:38.164768",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T15:41:48.984546",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T15:58:24.076692",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T16:13:13.384836",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T16:33:11.726637",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T16:48:22.760980",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T17:06:28.043136",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T17:26:56.990273",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T17:44:44.706305",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T18:02:08.474176",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T18:21:32.926578",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T18:38:44.947220",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T18:55:28.316958",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T19:12:49.388186",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T19:35:21.214762",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T19:53:06.354896",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T20:09:30.679039",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T20:26:44.704996",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T20:42:53.436765",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T21:03:37.847791",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T21:20:44.966394",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T21:39:15.892423",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T21:58:21.552421",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T22:17:14.921346",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T22:33:55.629054",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T22:50:53.497527",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T23:08:12.552805",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T23:26:08.740855",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-28T23:45:56.884418",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-29T00:02:49.973928",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-29T00:21:32.909884",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-29T00:39:28.083761",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-29T01:00:48.276836",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-29T01:21:02.193519",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-29T01:39:18.681058",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-29T01:57:12.087285",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-29T02:14:54.807918",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-29T02:35:47.862892",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-29T02:53:23.060264",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-29T03:11:09.697110",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-29T03:27:50.700613",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-29T03:43:15.795458",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-29T04:00:09.659434",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-29T04:16:38.918750",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-29T04:33:35.070278",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-29T04:51:19.208703",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-29T05:07:21.971770",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-29T05:25:13.489031",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-29T05:43:54.710830",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-29T06:01:47.405357",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-29T06:16:24.325711",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-29T06:31:07.110974",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-29T06:46:04.659719",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-29T07:02:54.662894",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-29T07:17:08.742815",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-29T07:31:12.804563",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-29T07:48:54.262236",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-29T08:04:34.813080",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-29T08:20:01.560263",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-29T08:35:38.787816",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-29T08:50:28.355619",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-29T09:07:51.266670",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-29T09:23:04.728417",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-29T09:39:30.315943",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-29T09:57:37.479295",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-29T10:14:18.557072",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-29T10:33:11.373170",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-29T10:50:13.268288",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-29T11:10:54.922704",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-29T11:27:02.181001",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-29T11:44:30.476182",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-29T12:00:56.795770",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-29T12:15:56.541652",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-29T12:31:13.473120",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-29T12:46:21.203906",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-29T13:02:34.489859",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-29T13:17:28.653142",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-29T13:42:09.746627",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-29T14:02:51.351510",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-29T14:20:12.392737",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-29T14:36:00.696944",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-29T14:50:28.485642",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  },
+  {
+    "timestamp": "2025-10-29T15:08:10.878595",
+    "balance": 0.0,
+    "unrealized_pnl": 0,
+    "total_value": 0.0
+  }
+]

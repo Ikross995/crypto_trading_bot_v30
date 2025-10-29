@@ -1,0 +1,24 @@
+[
+  {
+    "timestamp": "2025-10-17T19:39:22.844857+00:00",
+    "trigger": "test_adaptation",
+    "old_params": {
+      "confidence_threshold": 0.45,
+      "position_size": 1.0
+    },
+    "new_params": {
+      "confidence_threshold": 0.48,
+      "position_size": 1.1
+    },
+    "performance_before": {
+      "win_rate": 0.6,
+      "profit_factor": 1.2
+    },
+    "performance_after": null,
+    "reasoning": [
+      "Performance improved",
+      "Market conditions favorable"
+    ],
+    "confidence": 0.85
+  }
+]
