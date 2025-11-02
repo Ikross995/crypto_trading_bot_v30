@@ -447,6 +447,33 @@ def integrate_exit_tracker_callbacks(exit_tracker: ExitTracker, trading_engine) 
                     f"@ ${exit_event.exit_price:.2f}"
                 )
                 
+                # 🧠 Update AI Learning System
+                if hasattr(trading_engine, 'adaptive_learning') and trading_engine.adaptive_learning:
+                    try:
+                        import asyncio
+                        
+                        # Try to find trade_id from pending_trades
+                        trade_id = None
+                        if hasattr(trading_engine, 'pending_trades') and exit_event.symbol in trading_engine.pending_trades:
+                            trade_id = trading_engine.pending_trades[exit_event.symbol].get('trade_id')
+                        
+                        # Create async task to update trade exit in learning system
+                        asyncio.create_task(
+                            trading_engine.adaptive_learning.update_trade_exit(
+                                symbol=exit_event.symbol,
+                                exit_price=exit_event.exit_price,
+                                exit_reason=exit_event.exit_reason,
+                                trade_id=trade_id
+                            )
+                        )
+                        
+                        if trade_id:
+                            trading_engine.logger.info(f"🧠 [AI_LEARNING] Updated trade exit for {exit_event.symbol} (trade_id: {trade_id})")
+                        else:
+                            trading_engine.logger.info(f"🧠 [AI_LEARNING] Updated trade exit for {exit_event.symbol} (no trade_id)")
+                    except Exception as ai_e:
+                        trading_engine.logger.error(f"🧠 [AI_LEARNING] Failed to update trade exit: {ai_e}")
+                
                 # Update position tracking
                 if hasattr(trading_engine, 'active_positions') and exit_event.symbol in trading_engine.active_positions:
                     # Position closed, remove from tracking

@@ -1,0 +1,34 @@
+[
+  {
+    "timestamp": "2025-11-02T08:50:46.301719+00:00",
+    "target_metric": "sharpe_ratio",
+    "best_params": {
+      "confidence_threshold": 0.8372343894881864,
+      "position_size_multiplier": 0.6118391427724785,
+      "dca_threshold_1": 2.449227500681924,
+      "dca_threshold_2": 3.588975552812705,
+      "dca_threshold_3": 4.952080140694752,
+      "risk_multiplier": 0.7499372895450073,
+      "exit_profit_target": 3.1073711218805355
+    },
+    "best_score": 0.0,
+    "n_iterations": 20,
+    "convergence": "[-0. -0. -0. -0. -0. -0. -0. -0. -0. -0. -0. -0. -0. -0. -0. -0. -0. -0.\n -0. -0.]"
+  },
+  {
+    "timestamp": "2025-11-02T09:01:27.166172+00:00",
+    "target_metric": "sharpe_ratio",
+    "best_params": {
+      "confidence_threshold": 0.8372343894881864,
+      "position_size_multiplier": 0.6118391427724785,
+      "dca_threshold_1": 2.449227500681924,
+      "dca_threshold_2": 3.588975552812705,
+      "dca_threshold_3": 4.952080140694752,
+      "risk_multiplier": 0.7499372895450073,
+      "exit_profit_target": 3.1073711218805355
+    },
+    "best_score": 0.0,
+    "n_iterations": 20,
+    "convergence": "[-0. -0. -0. -0. -0. -0. -0. -0. -0. -0. -0. -0. -0. -0. -0. -0. -0. -0.\n -0. -0.]"
+  }
+]

@@ -57,7 +57,7 @@ class PerformanceMetrics:
     
     # Временные метрики
     avg_hold_time: float = 0.0
-    last_updated: datetime = None
+    last_updated: Optional[datetime] = None
     
     # Адаптивные параметры
     confidence_threshold: float = 0.45
@@ -82,6 +82,11 @@ class TradeRecord:
     market_conditions: Dict[str, Any]
     was_dca: bool = False
     exit_reason: str = "unknown"  # 'tp', 'sl', 'manual', 'timeout'
+    trade_id: Optional[str] = None  # ID сделки для отслеживания
+    entry_timestamp: Optional[datetime] = None  # Время входа в позицию
+    sl_price: Optional[float] = None  # Цена стоп-лосса
+    tp_prices: Optional[List[float]] = None  # Цены тейк-профитов
+    order_id: Optional[str] = None  # ID ордера на бирже
 
 
 class AdaptiveLearningSystem:
@@ -166,32 +171,89 @@ class AdaptiveLearningSystem:
             logger.error(f"❌ [ADAPTIVE_LEARNING] Failed to load historical data: {e}")
             
     def _save_data(self) -> None:
-        """Сохраняет данные на диск."""
+        """Сохраняет данные на диск с улучшенной обработкой ошибок."""
         try:
-            # Сохраняем сделки
+            logger.debug(f"💾 [SAVE_DATA] Saving {len(self.trades_history)} trades to disk...")
+            
+            # Сохраняем сделки с безопасной сериализацией
             trades_data = []
-            for trade in self.trades_history:
-                trade_dict = asdict(trade)
-                trade_dict['timestamp'] = trade.timestamp.isoformat()
-                trades_data.append(trade_dict)
+            for i, trade in enumerate(self.trades_history):
+                try:
+                    trade_dict = {
+                        'timestamp': trade.timestamp.isoformat() if hasattr(trade.timestamp, 'isoformat') else str(trade.timestamp),
+                        'symbol': str(trade.symbol),
+                        'side': str(trade.side),
+                        'entry_price': float(trade.entry_price),
+                        'exit_price': float(trade.exit_price),
+                        'quantity': float(trade.quantity),
+                        'pnl': float(trade.pnl),
+                        'pnl_pct': float(trade.pnl_pct),
+                        'hold_time_seconds': float(trade.hold_time_seconds),
+                        'signal_strength': float(trade.signal_strength),
+                        'market_conditions': dict(trade.market_conditions) if isinstance(trade.market_conditions, dict) else {},
+                        'was_dca': bool(trade.was_dca),
+                        'exit_reason': str(trade.exit_reason),
+                        'trade_id': str(trade.trade_id) if trade.trade_id else None
+                    }
+                    trades_data.append(trade_dict)
+                except Exception as trade_error:
+                    logger.error(f"❌ [SAVE_DATA] Failed to serialize trade {i}: {trade_error}")
+                    continue
                 
-            with open(self.trades_file, 'w') as f:
-                json.dump(trades_data, f, indent=2, default=str)
+            # Записываем файл сделок с бэкапом
+            trades_backup = self.trades_file.with_suffix('.json.bak')
+            if self.trades_file.exists():
+                import shutil
+                shutil.copy2(self.trades_file, trades_backup)
+                
+            with open(self.trades_file, 'w', encoding='utf-8') as f:
+                json.dump(trades_data, f, indent=2, ensure_ascii=False)
+                
+            logger.info(f"✅ [SAVE_DATA] Successfully saved {len(trades_data)} trades to {self.trades_file}")
                 
             # Сохраняем метрики
-            metrics_dict = asdict(self.current_metrics)
-            if self.current_metrics.last_updated:
-                metrics_dict['last_updated'] = self.current_metrics.last_updated.isoformat()
-                
-            with open(self.metrics_file, 'w') as f:
-                json.dump(metrics_dict, f, indent=2, default=str)
+            try:
+                metrics_dict = {
+                    'total_trades': int(self.current_metrics.total_trades),
+                    'winning_trades': int(self.current_metrics.winning_trades),
+                    'losing_trades': int(self.current_metrics.losing_trades),
+                    'win_rate': float(self.current_metrics.win_rate),
+                    'total_pnl': float(self.current_metrics.total_pnl),
+                    'total_pnl_pct': float(self.current_metrics.total_pnl_pct),
+                    'avg_win': float(self.current_metrics.avg_win) if self.current_metrics.avg_win != float('inf') else 0,
+                    'avg_loss': float(self.current_metrics.avg_loss) if self.current_metrics.avg_loss != float('inf') else 0,
+                    'profit_factor': float(self.current_metrics.profit_factor) if self.current_metrics.profit_factor != float('inf') else 0,
+                    'max_drawdown': float(self.current_metrics.max_drawdown),
+                    'max_consecutive_losses': int(self.current_metrics.max_consecutive_losses),
+                    'current_streak': int(self.current_metrics.current_streak),
+                    'sharpe_ratio': float(self.current_metrics.sharpe_ratio) if self.current_metrics.sharpe_ratio != float('inf') else 0,
+                    'avg_hold_time': float(self.current_metrics.avg_hold_time),
+                    'last_updated': self.current_metrics.last_updated.isoformat() if self.current_metrics.last_updated else None,
+                    'confidence_threshold': float(self.current_metrics.confidence_threshold),
+                    'position_size_multiplier': float(self.current_metrics.position_size_multiplier),
+                    'dca_enabled': bool(self.current_metrics.dca_enabled)
+                }
+                    
+                with open(self.metrics_file, 'w', encoding='utf-8') as f:
+                    json.dump(metrics_dict, f, indent=2, ensure_ascii=False)
+                    
+                logger.debug(f"✅ [SAVE_DATA] Metrics saved to {self.metrics_file}")
+            except Exception as metrics_error:
+                logger.error(f"❌ [SAVE_DATA] Failed to save metrics: {metrics_error}")
                 
             # Сохраняем адаптации
-            with open(self.adaptations_file, 'w') as f:
-                json.dump(self.adaptations_log, f, indent=2, default=str)
+            try:
+                with open(self.adaptations_file, 'w', encoding='utf-8') as f:
+                    json.dump(self.adaptations_log, f, indent=2, ensure_ascii=False, default=str)
+                    
+                logger.debug(f"✅ [SAVE_DATA] Adaptations saved to {self.adaptations_file}")
+            except Exception as adapt_error:
+                logger.error(f"❌ [SAVE_DATA] Failed to save adaptations: {adapt_error}")
                 
         except Exception as e:
-            logger.error(f"❌ [ADAPTIVE_LEARNING] Failed to save data: {e}")
+            logger.error(f"❌ [SAVE_DATA] Critical error saving data: {e}")
+            import traceback
+            logger.error(f"❌ [SAVE_DATA] Traceback: {traceback.format_exc()}")
             
     async def record_trade(self, trade: TradeRecord) -> None:
         """Записывает новую сделку и обновляет метрики."""
@@ -213,44 +275,88 @@ class AdaptiveLearningSystem:
         except Exception as e:
             logger.error(f"❌ [TRADE_RECORD] Failed to record trade: {e}")
     
-    async def update_trade_exit(self, symbol: str, exit_price: float, exit_reason: str = "manual") -> bool:
-        """Обновляет существующую незакрытую сделку при выходе из позиции."""
+    async def update_trade_exit(self, symbol: str = None, exit_price: float = None, exit_reason: str = "manual", 
+                              trade_id: str = None, **kwargs) -> bool:
+        """
+        Обновляет существующую незакрытую сделку при выходе из позиции.
+        
+        Args:
+            symbol: Символ торгового инструмента
+            exit_price: Цена выхода из позиции  
+            exit_reason: Причина выхода (tp, sl, manual, etc.)
+            trade_id: ID сделки для точного поиска
+            **kwargs: Дополнительные параметры (для совместимости)
+        """
         try:
-            # Ищем последнюю незакрытую сделку для этого символа
-            for i in range(len(self.trades_history) - 1, -1, -1):
-                trade = self.trades_history[i]
-                if (trade.symbol == symbol and 
-                    trade.exit_reason == "pending" and 
-                    trade.exit_price == trade.entry_price):
-                    
-                    # Обновляем данные о выходе
-                    trade.exit_price = exit_price
-                    trade.exit_reason = exit_reason
-                    
-                    # Рассчитываем PnL
-                    if trade.side.upper() == "BUY":
-                        trade.pnl = (exit_price - trade.entry_price) * trade.quantity
-                    else:  # SELL
-                        trade.pnl = (trade.entry_price - exit_price) * trade.quantity
-                    
-                    trade.pnl_pct = (trade.pnl / (trade.entry_price * trade.quantity)) * 100
-                    
-                    # Обновляем время удержания
-                    hold_time = (datetime.now(timezone.utc) - trade.timestamp).total_seconds()
-                    trade.hold_time_seconds = hold_time
-                    
-                    logger.info(f"✅ [TRADE_UPDATE] {symbol} сделка закрыта: PnL {trade.pnl:+.2f} USDT ({trade.pnl_pct:+.2f}%), держали {hold_time/60:.1f} мин")
-                    
-                    # Пересчитываем метрики
-                    await self._update_metrics()
-                    
-                    # Сохраняем обновленные данные
-                    self._save_data()
-                    
-                    return True
+            logger.info(f"🔍 [TRADE_EXIT_UPDATE] Searching for trade: symbol={symbol}, trade_id={trade_id}, exit_price={exit_price}")
             
-            logger.warning(f"⚠️ [TRADE_UPDATE] Не найдена незакрытая сделка для {symbol}")
-            return False
+            # Счетчик найденных сделок для отладки
+            pending_trades = []
+            for trade in self.trades_history:
+                if trade.exit_reason == "pending":
+                    pending_trades.append(f"{trade.symbol}({trade.trade_id})")
+            
+            logger.info(f"🔍 [PENDING_TRADES] Found {len(pending_trades)} pending: {', '.join(pending_trades[:5])}")
+            
+            # Ищем сделку для обновления (по trade_id или по symbol)
+            target_trade = None
+            
+            if trade_id:
+                # Приоритет: поиск по trade_id
+                for trade in self.trades_history:
+                    if trade.trade_id == trade_id and trade.exit_reason == "pending":
+                        target_trade = trade
+                        logger.info(f"✅ [TRADE_FOUND] Found by trade_id: {trade_id}")
+                        break
+            
+            if not target_trade and symbol:
+                # Резервный поиск: последняя незакрытая сделка для символа
+                for i in range(len(self.trades_history) - 1, -1, -1):
+                    trade = self.trades_history[i]
+                    if (trade.symbol == symbol and 
+                        trade.exit_reason == "pending" and 
+                        abs(trade.exit_price - trade.entry_price) < 0.01):  # Практически равны
+                        target_trade = trade
+                        logger.info(f"✅ [TRADE_FOUND] Found by symbol: {symbol}, trade_id: {trade.trade_id}")
+                        break
+            
+            if not target_trade:
+                logger.error(f"❌ [TRADE_NOT_FOUND] No pending trade found for symbol={symbol}, trade_id={trade_id}")
+                logger.error(f"❌ [TRADE_NOT_FOUND] Available pending trades: {pending_trades}")
+                return False
+                    
+            # Обновляем данные о выходе
+            old_exit_price = target_trade.exit_price
+            target_trade.exit_price = exit_price if exit_price else target_trade.exit_price
+            target_trade.exit_reason = exit_reason
+            
+            # Рассчитываем PnL
+            if target_trade.side.upper() == "BUY":
+                target_trade.pnl = (target_trade.exit_price - target_trade.entry_price) * target_trade.quantity
+            else:  # SELL
+                target_trade.pnl = (target_trade.entry_price - target_trade.exit_price) * target_trade.quantity
+            
+            # Рассчитываем PnL в процентах
+            notional = target_trade.entry_price * target_trade.quantity
+            target_trade.pnl_pct = (target_trade.pnl / notional) * 100 if notional > 0 else 0.0
+            
+            # Обновляем время удержания
+            hold_time = (datetime.now(timezone.utc) - target_trade.timestamp).total_seconds()
+            target_trade.hold_time_seconds = hold_time
+            
+            logger.info(f"🎯 [TRADE_UPDATED] {symbol} ({target_trade.trade_id})")
+            logger.info(f"   📊 Entry: ${target_trade.entry_price:.2f} → Exit: ${target_trade.exit_price:.2f}")
+            logger.info(f"   💰 PnL: {target_trade.pnl:+.2f} USDT ({target_trade.pnl_pct:+.2f}%)")
+            logger.info(f"   ⏱️  Hold time: {hold_time/60:.1f} min")
+            logger.info(f"   🏁 Exit reason: {exit_reason}")
+            
+            # Пересчитываем метрики
+            await self._update_metrics()
+            
+            # Сохраняем обновленные данные
+            self._save_data()
+            
+            return True
             
         except Exception as e:
             logger.error(f"❌ [TRADE_UPDATE] Failed to update trade exit for {symbol}: {e}")
@@ -651,7 +757,7 @@ class AdaptiveLearningSystem:
         except Exception as e:
             logger.error(f"❌ [EMERGENCY_STOP] Failed to execute emergency stop: {e}")
     
-    async def get_advanced_ai_recommendations(self, market_data: Dict = None) -> Dict[str, Any]:
+    async def get_advanced_ai_recommendations(self, market_data: Optional[Dict] = None) -> Dict[str, Any]:
         """Получает рекомендации от продвинутой системы ИИ."""
         try:
             if not self.advanced_ai:

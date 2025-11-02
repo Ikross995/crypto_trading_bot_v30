@@ -1,0 +1,202 @@
+[
+  {
+    "timestamp": "2025-10-27T13:22:08.053433+00:00",
+    "symbol": "ETHUSDT",
+    "side": "BUY",
+    "entry_price": 4162.92,
+    "exit_price": 4162.92,
+    "quantity": 0.062,
+    "pnl": 0.0,
+    "pnl_pct": 0.0,
+    "hold_time_seconds": 0.0,
+    "signal_strength": 1.6515,
+    "market_conditions": {
+      "volatility": 1.0,
+      "volume_ratio": 1.0,
+      "risk_level": "medium"
+    },
+    "was_dca": false,
+    "exit_reason": "pending",
+    "trade_id": null
+  },
+  {
+    "timestamp": "2025-10-27T13:44:41.919709+00:00",
+    "symbol": "BTCUSDT",
+    "side": "SELL",
+    "entry_price": 114764.8,
+    "exit_price": 114764.8,
+    "quantity": 0.008,
+    "pnl": 0.0,
+    "pnl_pct": 0.0,
+    "hold_time_seconds": 0.0,
+    "signal_strength": 2.0457133317611254,
+    "market_conditions": {
+      "volatility": 1.0,
+      "volume_ratio": 1.0,
+      "risk_level": "medium"
+    },
+    "was_dca": false,
+    "exit_reason": "pending",
+    "trade_id": null
+  },
+  {
+    "timestamp": "2025-10-27T14:04:03.567441+00:00",
+    "symbol": "BNBUSDT",
+    "side": "BUY",
+    "entry_price": 1149.96,
+    "exit_price": 1149.96,
+    "quantity": 0.75,
+    "pnl": 0.0,
+    "pnl_pct": 0.0,
+    "hold_time_seconds": 0.0,
+    "signal_strength": 1.6165099053117962,
+    "market_conditions": {
+      "volatility": 1.0,
+      "volume_ratio": 1.0,
+      "risk_level": "medium"
+    },
+    "was_dca": false,
+    "exit_reason": "pending",
+    "trade_id": null
+  },
+  {
+    "timestamp": "2025-10-27T14:08:28.612911+00:00",
+    "symbol": "BTCUSDT",
+    "side": "SELL",
+    "entry_price": 114679.1,
+    "exit_price": 114679.1,
+    "quantity": 0.016,
+    "pnl": 0.0,
+    "pnl_pct": 0.0,
+    "hold_time_seconds": 0.0,
+    "signal_strength": 2.7862691980744407,
+    "market_conditions": {
+      "volatility": 1.0,
+      "volume_ratio": 1.0,
+      "risk_level": "medium"
+    },
+    "was_dca": false,
+    "exit_reason": "pending",
+    "trade_id": null
+  },
+  {
+    "timestamp": "2025-10-27T15:11:34.986861+00:00",
+    "symbol": "BNBUSDT",
+    "side": "BUY",
+    "entry_price": 1141.82,
+    "exit_price": 1141.82,
+    "quantity": 0.76,
+    "pnl": 0.0,
+    "pnl_pct": 0.0,
+    "hold_time_seconds": 0.0,
+    "signal_strength": 1.336882981406136,
+    "market_conditions": {
+      "volatility": 1.0,
+      "volume_ratio": 1.0,
+      "risk_level": "medium"
+    },
+    "was_dca": false,
+    "exit_reason": "pending",
+    "trade_id": null
+  },
+  {
+    "timestamp": "2025-11-02T07:30:59.394938+00:00",
+    "symbol": "ETHUSDT",
+    "side": "SELL",
+    "entry_price": 3894.11,
+    "exit_price": 3894.11,
+    "quantity": 0.669,
+    "pnl": 0.0,
+    "pnl_pct": 0.0,
+    "hold_time_seconds": 0.0,
+    "signal_strength": 1.330218103620833,
+    "market_conditions": {
+      "volatility": 1.0,
+      "volume_ratio": 1.0,
+      "risk_level": "medium"
+    },
+    "was_dca": false,
+    "exit_reason": "pending",
+    "trade_id": "T_ETHUSDT_20251102_133059_d8875f79"
+  },
+  {
+    "timestamp": "2025-11-02T07:39:53.578830+00:00",
+    "symbol": "BTCUSDT",
+    "side": "BUY",
+    "entry_price": 110505.1,
+    "exit_price": 110505.1,
+    "quantity": 0.001,
+    "pnl": 0.0,
+    "pnl_pct": 0.0,
+    "hold_time_seconds": 0.0,
+    "signal_strength": 2.62405,
+    "market_conditions": {
+      "volatility": 1.0,
+      "volume_ratio": 1.0,
+      "risk_level": "medium"
+    },
+    "was_dca": false,
+    "exit_reason": "pending",
+    "trade_id": "T_BTCUSDT_20251102_133953_38ed1c51"
+  },
+  {
+    "timestamp": "2025-11-02T07:49:26.465799+00:00",
+    "symbol": "BTCUSDT",
+    "side": "BUY",
+    "entry_price": 110652.5,
+    "exit_price": 110652.5,
+    "quantity": 0.007,
+    "pnl": 0.0,
+    "pnl_pct": 0.0,
+    "hold_time_seconds": 0.0,
+    "signal_strength": 2.4401084899394467,
+    "market_conditions": {
+      "volatility": 1.0,
+      "volume_ratio": 1.0,
+      "risk_level": "medium"
+    },
+    "was_dca": false,
+    "exit_reason": "pending",
+    "trade_id": "T_BTCUSDT_20251102_134926_a6a7ec91"
+  },
+  {
+    "timestamp": "2025-11-02T07:57:39.994946+00:00",
+    "symbol": "DOGEUSDT",
+    "side": "SELL",
+    "entry_price": 0.18825,
+    "exit_price": 0.18825,
+    "quantity": 4590.0,
+    "pnl": 0.0,
+    "pnl_pct": 0.0,
+    "hold_time_seconds": 0.0,
+    "signal_strength": 1.4443463375236316,
+    "market_conditions": {
+      "volatility": 1.0,
+      "volume_ratio": 1.0,
+      "risk_level": "medium"
+    },
+    "was_dca": false,
+    "exit_reason": "pending",
+    "trade_id": "T_DOGEUSDT_20251102_135739_5c522cb4"
+  },
+  {
+    "timestamp": "2025-11-02T08:01:22.886562+00:00",
+    "symbol": "ETHUSDT",
+    "side": "SELL",
+    "entry_price": 3907.17,
+    "exit_price": 3907.17,
+    "quantity": 0.221,
+    "pnl": 0.0,
+    "pnl_pct": 0.0,
+    "hold_time_seconds": 0.0,
+    "signal_strength": 1.251937456745134,
+    "market_conditions": {
+      "volatility": 1.0,
+      "volume_ratio": 1.0,
+      "risk_level": "medium"
+    },
+    "was_dca": false,
+    "exit_reason": "pending",
+    "trade_id": "T_ETHUSDT_20251102_140122_3426f175"
+  }
+]

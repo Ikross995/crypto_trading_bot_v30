@@ -362,6 +362,21 @@ class LiveTradingEngine:
         self.logger.info(
             "Live trading engine initialized with DCA, LSTM and Dashboard support"
         )
+    
+    def _get_market_session(self) -> str:
+        """Get current market session based on UTC time"""
+        from datetime import datetime, timezone
+        
+        now = datetime.now(timezone.utc)
+        hour = now.hour
+        
+        # Market sessions in UTC
+        if 0 <= hour < 8:
+            return "asian"
+        elif 8 <= hour < 16:
+            return "european"
+        else:
+            return "american"
 
     def _init_signaler(self) -> Any:
         # Best-effort import; we tolerate absence
@@ -660,13 +675,39 @@ class LiveTradingEngine:
                     "❌ [MARKET_CONTEXT] No context data received - using default settings"
                 )
 
-            # 🤖 Initialize Adaptive Learning System
+            # 🤖 Initialize Enhanced ML-Powered Adaptive Learning System
             if self.learning_enabled:
                 try:
-                    from strategy.adaptive_learning import AdaptiveLearningSystem
+                    # 🚀 NEW: Enhanced ML system with real machine learning
+                    from strategy.enhanced_adaptive_learning import EnhancedAdaptiveLearningSystem
 
-                    self.adaptive_learning = AdaptiveLearningSystem(self.config)
-                    logger.info("🤖 [ADAPTIVE_LEARNING] Learning system initialized")
+                    self.enhanced_ai = EnhancedAdaptiveLearningSystem(self.config)
+                    
+                    # Backward compatibility: Keep old interface for existing code
+                    self.adaptive_learning = self.enhanced_ai
+                    
+                    logger.info("🧠 [ENHANCED_AI] Advanced ML learning system initialized with:")
+                    logger.info("    ✅ 4 ML models (PnL, Win Prob, Hold Time, Risk)")
+                    logger.info("    ✅ Rich feature engineering (12+ market features)")
+                    logger.info("    ✅ Real-time online learning")
+                    logger.info("    ✅ Predictive analytics & AI recommendations")
+                    
+                    # 🚀 Initialize AI Status Monitor for clear visibility
+                    try:
+                        from strategy.ai_status_monitor import ai_monitor
+                        self.ai_monitor = ai_monitor
+                        logger.info("🧠 [AI_MONITOR] AI Status Monitor initialized - Enhanced logging enabled!")
+                        logger.info("    ✅ Real-time ML prediction tracking")
+                        logger.info("    ✅ Learning event visualization")
+                        logger.info("    ✅ Performance accuracy monitoring")
+                        logger.info("    ✅ Clear AI decision indicators")
+                        
+                        # Start periodic status reporting
+                        self._ai_status_interval = 0
+                        
+                    except ImportError:
+                        logger.warning("🧠 [AI_MONITOR] AI Status Monitor not available")
+                        self.ai_monitor = None
 
                     # ✅ ExitManager будет инициализирован в _init_binance_client после создания клиента
 
@@ -1209,6 +1250,12 @@ class LiveTradingEngine:
                 md = await self.market.get_candles(
                     symbol, self.timeframe, limit=250
                 )  # IMBA needs 250+ candles
+                
+                # 🧠 NEW: Cache candles data for ML system
+                if not hasattr(self, '_last_candles_data'):
+                    self._last_candles_data = {}
+                self._last_candles_data[symbol] = md
+                
             except Exception as e:
                 self.logger.debug("get_candles(%s) error: %s", symbol, e)
 
@@ -1223,10 +1270,147 @@ class LiveTradingEngine:
 
         # Ensure we have a price to size the order
         price = sig.entry_price or await self._latest_price(symbol)
+        if not price:
+            self.logger.debug("Skip %s: missing price", symbol)
+            return
+
+        # 🧠 NEW: Enhanced ML Analysis of Signal Context
+        enhanced_analysis = None
+        if self.enhanced_ai and md is not None:
+            try:
+                # Convert market data to DataFrame if needed
+                import pandas as pd
+                
+                if hasattr(md, 'close'):
+                    # Already a structured object
+                    candles_df = pd.DataFrame({
+                        'timestamp': md.timestamp,
+                        'open': md.open,
+                        'high': md.high,
+                        'low': md.low,
+                        'close': md.close,
+                        'volume': md.volume
+                    })
+                elif isinstance(md, list) and len(md) > 0:
+                    # List of candles - convert to DataFrame
+                    if isinstance(md[0], dict):
+                        candles_df = pd.DataFrame(md)
+                    else:
+                        # Raw array format
+                        candles_df = pd.DataFrame(md, columns=[
+                            'timestamp', 'open', 'high', 'low', 'close', 'volume'
+                        ])
+                else:
+                    candles_df = None
+                
+                if candles_df is not None and len(candles_df) > 20:
+                    # Get ML analysis with predictions and recommendations
+                    import time
+                    start_time = time.time()
+                    
+                    enhanced_analysis = await self.enhanced_ai.analyze_signal_context(
+                        symbol=symbol,
+                        candles_data=candles_df,
+                        current_price=price,
+                        signal_strength=sig.strength,
+                        additional_context={
+                            'timeframe': self.timeframe,
+                            'iteration': self.iteration,
+                            'market_session': self._get_market_session(),
+                            'volatility_factor': getattr(self.config, 'volatility_factor', 1.0)
+                        }
+                    )
+                    
+                    processing_time = time.time() - start_time
+                    
+                    # 🧠 NEW: AI Status Monitor - Log ML prediction with clear indicators
+                    if enhanced_analysis and hasattr(self, 'ai_monitor') and self.ai_monitor:
+                        try:
+                            ml_pred = enhanced_analysis.get('ml_predictions', {})
+                            ai_rec = enhanced_analysis.get('ai_recommendations', {})
+                            trading_decision = enhanced_analysis.get('trading_decision', {})
+                            risk_assessment = enhanced_analysis.get('risk_assessment', {})
+                            
+                            # Log prediction with AI Status Monitor for maximum visibility
+                            self.ai_monitor.log_prediction(
+                                symbol=symbol,
+                                predictions=ml_pred,
+                                decision=trading_decision,
+                                processing_time=processing_time
+                            )
+                            
+                        except Exception as monitor_e:
+                            self.logger.warning("🧠 [AI_MONITOR] Failed to log prediction: %s", monitor_e)
+                    
+                    # Log ML analysis results
+                    if enhanced_analysis:
+                        ml_pred = enhanced_analysis.get('ml_predictions', {})
+                        ai_rec = enhanced_analysis.get('ai_recommendations', {})
+                        trading_decision = enhanced_analysis.get('trading_decision', {})
+                        risk_assessment = enhanced_analysis.get('risk_assessment', {})
+                        
+                        self.logger.info(
+                            "🧠 [ML_ANALYSIS] %s: Expected PnL %+.2f%% | Win Prob %.0f%% | Risk %s | Confidence %.2f",
+                            symbol,
+                            ml_pred.get('expected_pnl_pct', 0),
+                            ml_pred.get('win_probability', 0.5) * 100,
+                            risk_assessment.get('risk_level', 'unknown'),
+                            ml_pred.get('prediction_confidence', 0)
+                        )
+                        
+                        self.logger.info("🎯 [TRADING_DECISION] %s", trading_decision.get('reasoning', 'No reasoning'))
+                        
+                        # Show AI recommendations
+                        recommendations = ai_rec.get('recommendations', [])
+                        if recommendations:
+                            for rec in recommendations[:3]:  # Show top 3
+                                self.logger.info(
+                                    "💡 [AI_REC] %s (confidence: %.0f%%)",
+                                    rec.get('action', 'unknown'), 
+                                    rec.get('confidence', 0) * 100
+                                )
+                        
+                        # Apply ML-driven position sizing
+                        if trading_decision.get('should_trade', True):
+                            ml_size_multiplier = trading_decision.get('position_size_multiplier', 1.0)
+                            original_strength = sig.strength
+                            # Combine original signal strength with ML recommendations
+                            enhanced_strength = original_strength * ml_size_multiplier
+                            sig.strength = min(2.0, max(0.1, enhanced_strength))  # Cap between 0.1 and 2.0
+                            
+                            self.logger.info(
+                                "📊 [ML_SIZING] Signal strength: %.2f → %.2f (ML multiplier: %.2f)",
+                                original_strength, sig.strength, ml_size_multiplier
+                            )
+                            
+                            # 🧠 AI Status Monitor - Log position adjustment
+                            if hasattr(self, 'ai_monitor') and self.ai_monitor:
+                                try:
+                                    self.ai_monitor.log_position_adjustment(
+                                        symbol=symbol,
+                                        original_strength=original_strength,
+                                        ml_multiplier=ml_size_multiplier,
+                                        new_strength=sig.strength
+                                    )
+                                except Exception as monitor_adj_e:
+                                    self.logger.warning("🧠 [AI_MONITOR] Failed to log position adjustment: %s", monitor_adj_e)
+                        else:
+                            # ML system recommends not trading
+                            self.logger.warning(
+                                "🚫 [ML_BLOCK] ML system recommends SKIPPING trade: %s",
+                                trading_decision.get('reasoning', 'Low confidence/high risk')
+                            )
+                            return  # Skip this trade
+                    
+            except Exception as ml_e:
+                self.logger.warning("🧠 [ML_ANALYSIS] Error in ML analysis: %s", ml_e)
+                enhanced_analysis = None
+        
+        # Calculate position size with potentially ML-adjusted strength
         qty = self._position_size_qty(price, sig.strength)
-        if not price or not qty:
+        if not qty:
             self.logger.debug(
-                "Skip %s: missing price/qty (price=%s qty=%s)", symbol, price, qty
+                "Skip %s: missing qty (price=%s strength=%s)", symbol, price, sig.strength
             )
             return
 
@@ -1552,7 +1736,7 @@ class LiveTradingEngine:
 
                             # Check order status again - use get_open_orders since get_order doesn't exist
                             try:
-                                # Check if order is still in open orders (if not, it was likely filled)
+                                # Check if order is still in open orders (if not, it was likely filled OR cancelled)
                                 open_orders = self.client.get_open_orders(symbol=symbol)
                                 order_still_open = any(
                                     order.get("orderId") == order_id
@@ -1560,21 +1744,25 @@ class LiveTradingEngine:
                                 )
 
                                 if not order_still_open:
-                                    # Order not in open orders - likely filled
-                                    order_status = "FILLED"
-                                    # Get actual position to determine executed quantity
+                                    # Order not in open orders - check position to see if it was filled vs cancelled
                                     positions = self.client.get_positions()
+                                    position_found = False
+                                    
                                     for pos in positions:
                                         if pos.get("symbol") == symbol:
-                                            pos_amt = abs(
-                                                float(pos.get("positionAmt", 0))
-                                            )
-                                            if pos_amt > 0:
-                                                executed_qty = pos_amt
-                                                fills = (
-                                                    []
-                                                )  # We don't have individual fills info
+                                            pos_amt = float(pos.get("positionAmt", 0))
+                                            if abs(pos_amt) > 0:
+                                                # Position exists - order was filled
+                                                order_status = "FILLED"
+                                                executed_qty = abs(pos_amt)
+                                                fills = []  # We don't have individual fills info
+                                                position_found = True
                                                 break
+                                    
+                                    if not position_found:
+                                        # No position found - order was cancelled/rejected
+                                        order_status = "CANCELLED"
+                                        executed_qty = 0.0
                                 else:
                                     # Order still open - not filled yet
                                     order_status = "NEW"
@@ -1647,8 +1835,8 @@ class LiveTradingEngine:
                                     et_e,
                                 )
 
-                        # 🤖 Record trade opening for adaptive learning
-                        if self.adaptive_learning:
+                        # 🧠 NEW: Record trade opening with Enhanced ML system
+                        if self.enhanced_ai:
                             try:
                                 from strategy.adaptive_learning import TradeRecord
                                 from datetime import datetime, timezone
@@ -1662,9 +1850,8 @@ class LiveTradingEngine:
                                     avg_fill_price, order_side, strength
                                 )
 
-                                # CRITICAL FIX: Create and IMMEDIATELY record trade in AI system
+                                # 🚀 NEW: Create trade record with ML prediction data
                                 trade_record = TradeRecord(
-                                    trade_id=trade_id,
                                     timestamp=datetime.now(timezone.utc),
                                     symbol=symbol,
                                     side=order_side,
@@ -1684,14 +1871,34 @@ class LiveTradingEngine:
                                     },
                                     was_dca=False,
                                     exit_reason="pending",  # Will be updated on close
-                                    entry_timestamp=datetime.now(timezone.utc),
-                                    sl_price=sl_price,
-                                    tp_prices=tp_prices if tp_prices else [],
-                                    order_id=str(order_id),
+                                    trade_id=trade_id,  # Added trade_id field we just created
                                 )
+                                
+                                # 🧠 NEW: Store ML predictions for later validation
+                                if enhanced_analysis and 'ml_predictions' in enhanced_analysis:
+                                    ml_predictions = enhanced_analysis.get('ml_predictions', {})
+                                    trade_record.ml_prediction = ml_predictions
+                                    
+                                    self.logger.info(
+                                        "🧠 [ML_RECORD] Storing ML predictions: PnL %+.2f%%, Win prob %.0f%%",
+                                        ml_predictions.get('expected_pnl_pct', 0),
+                                        ml_predictions.get('win_probability', 0.5) * 100
+                                    )
 
-                                # CRITICAL: Actually record the trade in AI system!
-                                await self.adaptive_learning.record_trade(trade_record)
+                                # 🚀 ENHANCED: Record with ML system using both old and new methods
+                                # Use new enhanced method if available
+                                if hasattr(self.enhanced_ai, 'record_trade_with_ml'):
+                                    # Get market data for ML recording
+                                    candles_data = None
+                                    if hasattr(self, '_last_candles_data'):
+                                        candles_data = getattr(self, '_last_candles_data', {}).get(symbol)
+                                    
+                                    await self.enhanced_ai.record_trade_with_ml(trade_record, candles_data)
+                                    self.logger.info("🧠 [ENHANCED_ML] ✅ Trade recorded with ML context")
+                                else:
+                                    # Fallback to old method
+                                    await self.enhanced_ai.record_trade(trade_record)
+                                    self.logger.info("🤖 [BASIC_ML] ✅ Trade recorded (basic method)")
 
                                 # Also keep pending trades for position tracking
                                 self.pending_trades = getattr(
@@ -1705,22 +1912,23 @@ class LiveTradingEngine:
                                     "signal_strength": strength,
                                     "trade_record": trade_record,  # Reference to AI record
                                     "trade_id": trade_id,  # Store trade ID for exit tracking
+                                    "ml_analysis": enhanced_analysis,  # Store ML analysis for exit processing
                                 }
 
                                 self.logger.info(
-                                    "🤖 [LEARNING] ✅ Trade recorded in AI system: %s %.3f @ %.4f",
+                                    "🧠 [ENHANCED_LEARNING] ✅ Trade recorded in advanced ML system: %s %.3f @ %.4f",
                                     order_side,
                                     executed_qty,
                                     avg_fill_price,
                                 )
                             except Exception as learning_e:
                                 self.logger.error(
-                                    f"🤖 [LEARNING] ❌ Failed to record trade in AI system: {learning_e}"
+                                    f"🧠 [ENHANCED_LEARNING] ❌ Failed to record trade in ML system: {learning_e}"
                                 )
                                 import traceback
 
                                 self.logger.error(
-                                    f"🤖 [LEARNING] Traceback: {traceback.format_exc()}"
+                                    f"🧠 [ENHANCED_LEARNING] Traceback: {traceback.format_exc()}"
                                 )
 
                         self.logger.info(
@@ -2020,7 +2228,16 @@ class LiveTradingEngine:
             # Check if we have enough data for optimization
             trade_count = len(getattr(self.adaptive_learning, "trades_history", []))
 
-            # Log AI status periodically
+            # 🧠 NEW: AI Status Monitor - Periodic status reporting with clear visibility
+            if hasattr(self, 'ai_monitor') and self.ai_monitor:
+                # Show periodic AI status every 300 iterations (~5 minutes) 
+                if self.iteration % 300 == 0:
+                    try:
+                        self.ai_monitor.log_periodic_status()
+                    except Exception as monitor_status_e:
+                        self.logger.warning("🧠 [AI_MONITOR] Failed to log periodic status: %s", monitor_status_e)
+            
+            # Log AI status periodically (backup/fallback)
             if self.iteration % 200 == 0:  # Every ~3 minutes
                 self.logger.info(
                     "🧠 [AI_STATUS] Trades recorded: %d, Learning active: %s",
